@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FFFF4081</color>
+    <color name="tab_checked">#6F46E3</color>
+    <color name="tab_unchecked">#757575</color>
+    <color name="red">#f1252e</color>
+    <color name="white">#fff</color>
+    <color name="darkOrange">#d75500</color>
+    <color name="grey_line_color">#ffb9b9b9</color>
+    <color name="orange">#fdae2a</color>
+    <color name="orange_">#ed2727</color>
+
+    <color name="translucent">#aa000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_D33D3C">#D33D3C</color>
+    <color name="color_BDBDBD">#BDBDBD</color>
+    <color name="color_F3F5F4">#F3F5F4</color>
+    <color name="color_515051">#515051</color>
+    <color name="color_F2F4F3">#F2F4F3</color>
+    <color name="color_222222">#222222</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_e6e6e6">#e6e6e6</color>
+    <color name="color_e8e8e8">#e8e8e8</color>
+    <color name="color_d43d3d">#d43d3d</color>
+    <color name="color_1a1b1d">#1a1b1d</color>
+    <color name="color_b11919">#b11919</color>
+    <color name="color_F96B6B">#F96B6B</color>
+    <color name="color_3091D8">#3091D8</color>
+    <color name="color_d8d8d8">#d8d8d8</color>
+    <color name="color_f4f5f6">#f4f5f6</color>
+    <color name="color_406599">#406599</color>
+    <color name="color_cacaca">#cacaca</color>
+    <color name="color_505050">#505050</color>
+    <color name="color_C1C1C1">#C1C1C1</color>
+    <color name="color_f85959">#f85959</color>
+    <color name="color_D5E8F6">#D5E8F6</color>
+    <color name="color_4592C6">#4592C6</color>
+    <color name="color_1affffff">#1affffff</color>
+    <color name="color_E6E8E7">#E6E8E7</color>
+
+    <color name="tab_blue">#283593</color>
+    <color name="tab_light_blue">#03a9f4</color>
+    <color name="tab_purple">#9c27b0</color>
+    <color name="tab_green">#056f00</color>
+    <color name="tab_orange">#ff9800</color>
+    <color name="page_1">#7A5BBD</color>
+    <color name="page_1_dark">#624998</color>
+    <color name="page_2">#4388F0</color>
+    <color name="page_2_dark">#346CBE</color>
+    <color name="page_3">#7BB248</color>
+    <color name="page_3_dark">#628F38</color>
+    <color name="black_overlay">#66000000</color>
+
+    <color name="gray_zixun">#b4b3b3</color>
+    <color name="gray_zixun1">#e2e2e2</color>
+    <color name="gray_zixun2">#949393</color>
+    <color name="zixun_bj">#3F9FEB</color>
+    <color name="home_text">#9E9E9E</color>
+    <color name="gray_my">#dad8d8</color>
+    <color name="bg_color">#7244E4</color>
+    <color name="gray">#F5F5F5</color>
+</resources>

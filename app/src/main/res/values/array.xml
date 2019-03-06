@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>首页</item>
+        <item>开奖</item>
+        <item>比赛</item>
+        <item>开奖</item>
+        <item>我的</item>
+    </string-array>
+    <string-array name="lottery">
+        <item>西甲</item>
+        <item>英超</item>
+        <item>德甲</item>
+        <item>意甲</item>
+    </string-array>
+    <string-array name="channel">
+     <!--   <item>首页</item>-->
+        <item>首页</item>
+        <item>开奖</item>
+        <item>资讯</item>
+        <item>我的</item>
+    </string-array>
+    <string-array name="demo_array">
+        <item>双色球</item>
+        <item>福彩3D</item>
+    </string-array>
+    <string-array name="hot_url">
+        <item>http://m.500.com/datachart/ssq/jb.html</item>
+        <item>http://m.500.com/datachart/sd/jb.html</item>
+        <item>http://m.500.com/datachart/dlt/jb.html</item>
+        <item>http://m.500.com/datachart/qxc/zx/0.html</item>
+        <item>http://m.500.com/datachart/qlc/jb.html</item>
+        <item>http://m.500.com/datachart/pls/jb.html</item>
+        <item>http://m.500.com/datachart/plw/zx/0.html</item>
+        <item>http://m.500.com/datachart/ssc/zx/jb.html</item>
+        <item>http://m.500.com/datachart/klpk3/jb.html</item>
+        <item>http://m.500.com/datachart/sfc/zfb/2.html</item>
+        <item>http://m.500.com/datachart/dlt/jb.html</item>
+        <item>http://m.500.com/datachart/qxc/zx/0.html</item>
+    </string-array>
+    <string-array name="file_names">
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+        <item>https://m.xh738.com/Home/HelpGZ</item>
+    </string-array>
+    <string-array name="notice">
+        <item>双色球</item>
+        <item>时时彩</item>
+        <item>福彩3D</item>
+        <item>大乐透</item>
+        <item>排列3</item>
+        <item>排列5</item>
+    </string-array>
+    <string-array name="noticetiem">
+        <item>每周二,周四,周日开奖</item>
+        <item>每周一,周三,周日开奖</item>
+        <item>每天开奖,包括屎机号提醒</item>
+        <item>每周一,周三,周六开奖</item>
+        <item>每天开奖</item>
+        <item>每天开奖</item>
+    </string-array>
+    <string-array name="caizhong">
+       <!-- <item>竞足单关</item>-->
+        <item>竞彩足球</item>//https://m.500.com/lottery/help/jczq_help.html
+     <!--   <item>竞篮单关</item>-->
+        <item>竞彩篮球</item>//https://m.500.com/lottery/help/jclq_help.html
+        <item>北京单场</item>//https://m.500.com/lottery/help/bjdc_help.html
+     <!--   <item>大乐透</item>-->
+        <item>七星彩</item>//https://m.500.com/lottery/help/qxc_help.html
+        <item>排列三</item>//https://m.500.com/lottery/help/pls_help.html
+        <item>排列五</item>//https://m.500.com/lottery/help/plw_help.html
+        <item>胜负彩</item>//
+        <item>11选5</item>//
+        <item>新11选5</item>//https://m.500.com/lottery/help/jssyxw_help.html
+        <item>幸运赛车</item>//https://m.500.com/lottery/help/xysc_help.html
+    </string-array>
+    <string-array name="cz_wanfaurl">
+        <item>https://m.500.com/lottery/help/jczq_help.html</item>
+        <item>https://m.500.com/lottery/help/jclq_help.html</item>
+        <item>https://m.500.com/lottery/help/bjdc_help.html</item>
+        <item>https://m.500.com/lottery/help/qxc_help.html</item>
+        <item>https://m.500.com/lottery/help/pls_help.html</item>
+        <item>https://m.500.com/lottery/help/plw_help.html</item>
+        <item>https://m.500.com/lottery/help/sfc_help.html</item>
+        <item>https://m.500.com/lottery/help/dlc_help.html</item>
+        <item>https://m.500.com/lottery/help/jssyxw_help.html</item>
+        <item>https://m.500.com/lottery/help/xysc_help.html</item>
+    </string-array>
+</resources>

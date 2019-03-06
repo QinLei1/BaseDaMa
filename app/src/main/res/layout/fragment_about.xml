@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="【 免责声明 】"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/grey_line_color"
+        android:text="    本app旨在为用户提供开奖信息和类型介绍，方便用户时间查阅开奖信息，暂不支持购买，请放心使用
+         \n1、彩票市场存在风险，请谨慎投资！
+         \n2、公益为主、娱乐其次、中奖第三！
+         \n3、福彩宗旨:扶老、助残、济困、救孤！
+         \n4、体彩精神:责任、诚信、团结、创新！
+          \n5、本软件所有功能仅为投资辅助工具，由于软件等原因不能保证所有功能的完全正确性，不提供任何投资建议，所有风险由投资者个人承担，软件开发商不承担任何。
+         " />
+
+</LinearLayout>

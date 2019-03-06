@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lay_title_bar"
+    android:layout_width="match_parent"
+    android:layout_height="44dp"
+    android:background="@color/red"
+   >
+    <!--tools:showIn="@layout/activity_news_detail"-->
+    <ImageView
+        android:id="@+id/iv_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/selector_back"
+        android:padding="@dimen/x7"
+        android:scaleType="center"/>
+
+    <LinearLayout
+        android:id="@+id/ll_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="@dimen/x150"
+            android:layout_height="wrap_content"
+            android:textColor="@color/color_222222"
+            android:gravity="center"
+            android:maxLines="1"
+            android:text="意见反馈"
+            android:ellipsize="end"
+            android:textSize="16sp"
+            />
+
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/color_d8d8d8"/>
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_news"
+        android:icon="@mipmap/tob_home_sy"
+        android:title="@string/home" />
+    <!-- android:icon="@drawable/ic_home_black_24dp"-->
+ <!--   <item
+        android:id="@+id/item_lib"
+        android:icon="@mipmap/ic_library_gray"
+        android:title="@string/lottery" />-->
+    <!--android:icon="@drawable/ic_dashboard_black_24dp"-->
+
+    <item
+        android:id="@+id/item_open"
+        android:icon="@mipmap/tob_home_kj"
+        android:title="@string/lottery" />
+    <item
+        android:id="@+id/item_find"
+        android:icon="@mipmap/tob_home_zx"
+        android:title="@string/news" />
+   <!-- android:icon="@drawable/ic_notifications_black_24dp"-->
+    <item
+        android:id="@+id/item_more"
+        android:icon="@mipmap/tob_home_wd"
+        android:title="@string/more" />
+  <!--  android:icon="@drawable/ic_dashboard_black_24dp"-->
+</menu>

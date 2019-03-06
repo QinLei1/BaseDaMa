@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lay_load_fail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    android:gravity="center">
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:src="@mipmap/error" />
+
+    <TextView
+        android:id="@+id/txtLoadFailed"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_centerHorizontal="true"
+        android:text="加载失败，点击重新加载！"
+        android:textSize="15sp"
+        android:textColor="#8c8c8c"/>
+
+   <TextView
+       android:id="@+id/layoutReload"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_below="@+id/txtLoadFailed"
+       android:layout_centerHorizontal="true"
+       android:layout_marginTop="40dp"
+       android:padding="5dp"
+       android:background="@drawable/refresh_fragment"
+       android:gravity="center"
+       android:text="刷刷看"
+       android:textColor="#ffffff"
+       android:textSize="16sp" />
+
+</LinearLayout>

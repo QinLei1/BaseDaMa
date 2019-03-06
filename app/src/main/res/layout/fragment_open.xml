@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    >
+    <LinearLayout
+        android:layout_marginBottom="20dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x50"
+            android:visibility="gone"
+            android:background="@color/bg_color"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="开奖"
+                android:textSize="18sp"
+                android:textColor="@color/white"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="20dp"
+                />
+        </RelativeLayout>
+        <ImageView
+            android:id="@+id/kj_img01"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/x90"
+            android:src="@mipmap/kj_img01"
+            />
+        <!--<ImageView-->
+            <!--android:id="@+id/kj_img02"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="@dimen/x90"-->
+            <!--android:src="@mipmap/kj_img02"-->
+
+            <!--/>-->
+        <!--<ImageView-->
+            <!--android:id="@+id/kj_img03"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="@dimen/x90"-->
+            <!--android:src="@mipmap/kj_img03"-->
+
+            <!--/>-->
+        <!--<ImageView-->
+            <!--android:id="@+id/kj_img04"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="@dimen/x90"-->
+            <!--android:src="@mipmap/kj_img04"-->
+
+            <!--/>-->
+        <!--<ImageView-->
+            <!--android:id="@+id/kj_img05"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="@dimen/x90"-->
+            <!--android:src="@mipmap/kj_img05"-->
+
+            <!--/>-->
+        <!--<ImageView-->
+            <!--android:id="@+id/kj_img06"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="@dimen/x90"-->
+            <!--android:src="@mipmap/kj_img06"-->
+
+            <!--/>-->
+        <!--<ImageView-->
+            <!--android:id="@+id/kj_img07"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="@dimen/x90"-->
+            <!--android:src="@mipmap/kj_img07"-->
+
+            <!--/>-->
+    </LinearLayout>
+</ScrollView>

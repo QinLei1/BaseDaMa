@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">马甲包</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_more">more</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">首页</string>
+    <string name="lottery">开奖</string>
+    <string name="news">资讯</string>
+    <string name="more">我的</string>
+    <string name="noduty">免责</string>
+    <string name="yuche">资讯</string>
+
+    <string name="home1">广东11选5今日开奖特别资讯...</string>
+    <string name="home2">北京单场今日开奖特别资讯...</string>
+    <string name="home3">时时彩今日开奖特别资讯...</string>
+    <string name="home4">福彩3D今日开奖特别资讯...</string>
+    <string name="home5">双色球今日开奖特别资讯...</string>
+    <string name="home6">排列3今日开奖特别资讯...</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

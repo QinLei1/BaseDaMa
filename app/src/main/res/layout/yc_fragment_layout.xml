@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:background="@android:color/holo_red_dark">
+    <net.avenwu.support.widget.FlatTabGroup
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        app:tab_border_width="1dp"
+        android:id="@+id/flattabgroup"
+        app:tab_border_color="@android:color/white"
+        app:tab_items="@array/demo_array"
+        app:tab_radius="5dp"
+        app:tab_textSize="16sp"
+        app:tab_textColor="@color/radio_button_color"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/tv_table_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:text="感谢使用北京快艇应用，我们将为您提供最新最准的博彩资讯祝您生活愉快!!"
+        android:textColor="#000000"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:ellipsize="marquee"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+    </FrameLayout>
+
+</LinearLayout>

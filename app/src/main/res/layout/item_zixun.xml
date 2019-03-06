@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="30dp"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:id="@+id/item_zixun_image"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/x150"
+        android:scaleType="fitXY"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/shape_zixun"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical"
+        android:padding="10dp"
+        >
+        <TextView
+            android:id="@+id/item_zixun_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2018-07-24 14:06:04"
+            android:textColor="@color/gray_zixun"
+            />
+        <TextView
+            android:id="@+id/item_zixun_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="海安彩民10元命中双色球二等奖100万元"
+            android:textSize="18sp"
+            android:layout_marginTop="5dp"
+            />
+        <TextView
+            android:id="@+id/item_zixun_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="  胜负彩第18043期开奖中,湛江市霞山区椹川东二路的07325体彩网点售出的一张复式票中出1注单注奖金为23.62万多元的一等奖、11注单注奖金为1726元的二等奖,单票总奖金逾25万元。近日,中奖彩民王先生在业主黄先生的陪同下前往湛江体彩领取了奖金。
+
+王先生乐呵呵地分享了他的中奖经历。王先生经常关注胜负彩的动态,14场主玩法、任选9场都有玩。他出手比较谨慎,并非期期不落,在买足彩之前他都会做足当期赛事的功课。购彩当天,王先生先翻阅查看了相关足彩的资料,在反复看了盘口和赔率后,才定下了一张1728元的复式票投注方案,对当期冷门排序前二位的勒沃VS奥格斯、斯图加VS汉堡两场赛事实行3、1双选。
+
+据07325体彩网点业主黄先生回忆,第18043期足彩赛事由7场英超+7场德甲的比赛构成,买票的时候曾经和王先生就赛果情况进行沟通一番,其中有几场意见稍有分歧,不过最终拍板落单的还是客人。黄先生说:“我最佩服他就是沃特福德这场球,单选平局一个结果就赢了。”"
+            android:textColor="@color/gray_zixun2"
+            android:layout_marginTop="5dp"
+            />
+    </LinearLayout>
+</LinearLayout>
